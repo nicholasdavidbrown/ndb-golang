@@ -28,6 +28,24 @@ I've made this public for anyone to use if you ever stumble across this hopefull
 ---
 
 ## Introduction
+Firstly, setup a local dev environment to run the Go files in this repo.  
+
+### Commands
+To run a go file:
+```
+> go run ./file.go
+```
+To build/run an executable go file
+```
+> go build ./file.go
+
+> ./file
+```
+To install (build) with non-main packages (if cache set) going to $GOPATH/pkg and the executable builds to $GOPATH/bin
+```
+> go install ./file.go
+```
+
 
 
 
