@@ -3,12 +3,14 @@ This repo is for my Go lang exercises and practice - I tend to run Go on vm inst
 
 What I'm most comfortable with (You give me any task that these are capable of and I'll be comfortable in building it):
 - JS / TS / X libraries (with the Node JS runtime)
-- Python
+- Python  
+
 What I'm intermediate at (I can build systems with them but I have a lot of gaps in knowledge):
 - C
 - C++
 - Java
-- Ruby
+- Ruby.  
+
 What I'd like to add to my arsenal:
 - Go lang
 - Rust
